@@ -1,0 +1,8 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+ccxt==4.0.101
+pandas==2.1.1
+numpy==1.26.0
+tensorflow==2.13.0
+fastapi[all]==0.95.2
+python-dotenv==1.0.0
