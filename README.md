@@ -1,4 +1,4 @@
-# Assignment 2: Price Predictor with AI
+# Price Predictor with AI
 
 An AI-powered cryptocurrency price prediction system leveraging Binance historical data. This project fetches, preprocesses, and uses advanced machine learning techniques to predict price movements, validate with backtesting, and visualize performance metrics.
 
